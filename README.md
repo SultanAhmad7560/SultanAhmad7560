@@ -21,7 +21,7 @@
 
 <!-----Social Accounts------>
 
-## <img src="https://media0.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif?cid=ecf05e47t0gpbulzcqpt4i6bigr3fi5e815jffcrnep2gcgp&rid=giphy.gif&ct=s" width="30px">My Contacts
+## <img src="https://media0.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.webp?cid=ecf05e470niv23l9bn6p3ntw7xdystpswi001i79eygq1dpj&rid=giphy.webp&ct=s" width="30px">Connect with me
 
 <p align="center">
 <a href="">
