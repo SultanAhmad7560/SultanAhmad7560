@@ -1,5 +1,7 @@
+<h1 align="center"> <img align="center" src = "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" width="1080" height="240" /></h1>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sultan</h1>
-<h3 align="center">I’m a Computer Science student at Fast University and a beginner C++ programmer</h3>
+<h2 align="center">I’m a Computer Science student at Fast University and a beginner C++ programmer</h2>
 
 <!-----Contribution figures------>
 
@@ -59,9 +61,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats
 
-<p align="center"> <img align="center" src = "https://github-readme-stats.vercel.app/api?username=SultanAhmad7560&theme=dark"></p>
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SultanAhmad7560&theme=dark" alt="SultanAhmad7560" /></p>
+<p align="left"> <img align="center" src = "https://github-readme-stats.vercel.app/api?username=SultanAhmad7560&theme=dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SultanAhmad7560&theme=dark" alt="SultanAhmad7560" /></p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
