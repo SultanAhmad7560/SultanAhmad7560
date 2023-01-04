@@ -61,7 +61,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats
 
-<p align="left"> <img align="center" src = "https://github-readme-stats.vercel.app/api?username=SultanAhmad7560&theme=dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SultanAhmad7560&theme=dark" alt="SultanAhmad7560" /></p>
+<p align="center"> <img align="center" src = "https://github-readme-stats.vercel.app/api?username=SultanAhmad7560&theme=dark"></p>
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
+<!-----Streak Stats------>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Streak Stats
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SultanAhmad7560&theme=dark" alt="SultanAhmad7560" /></p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
