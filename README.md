@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan</h1>
 <h3 align="center">I’m a beginner programmer doing BSCS from FAST Lhr Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultanahmad7560" alt="sultanahmad7560" /></a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=SultanAhmad7560&theme=onedark)
 
 - 🌱 I’m currently learning **C++**
 
