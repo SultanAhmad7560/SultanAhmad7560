@@ -28,6 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanahmad7560&" alt="sultanahmad7560" /></p>
+[![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanAhmad7560)](https://github.com/SultanAhmad7560/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanahmad7560&theme=dark" alt="sultanahmad7560" /></p>
 
 ![An image of @sultanahmad7560's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sultanahmad7560)
