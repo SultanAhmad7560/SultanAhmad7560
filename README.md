@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **C++**
 
+- 📖 I am passionate about learning new programming languages and developing efficient software solutions.
+
 - 💻 In my free time, I enjoy contributing to open source projects and staying up to date with the latest developments in the tech industry
 
 - 👨‍💻 All of my projects are available at [https://github.com/SultanAhmad7560/Sultan7560](https://github.com/SultanAhmad7560/Sultan7560)
 
-- 📫 How to reach me **l217560@lhr.nu.edu.pk**
+- 📧 How to reach me **l217560@lhr.nu.edu.pk**
 
 - 🙂 I am excited to see where my passion for programming takes me in the future.
 
