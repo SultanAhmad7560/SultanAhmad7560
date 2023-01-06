@@ -1,9 +1,10 @@
-<h1 align="center"> <img align="center" src = "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" width="1080" height="240" /></h1>
+<h1 align="center"> <img align="center" src = "https://media0.giphy.com/media/3kPDmoWdBpQPNhCnUG/200.webp?cid=ecf05e47u4vxe6mlmzj5yevzs4kpylqo1bgw3dzcyueiip3j&rid=200.webp&ct=s" width="320" height="240" /></h1>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sultan</h1>
 <h2 align="center">I’m a Computer Science student at Fast University and a beginner C++ programmer</h2>
 
-<!-----Contribution figures------>
+
+<!-----ABOUT ME------>
 
 ## <img src="https://media2.giphy.com/media/SyIidSBQvyuDhEBj5T/giphy.gif?cid=ecf05e47a6kptpzfzvz0s8r4b791xm2998wq31sb5dstcqqg&rid=giphy.gif&ct=s" width="30px">About Me
 
@@ -18,6 +19,11 @@
 - 📧 How to reach me **l217560@lhr.nu.edu.pk**
 
 - 🙂 I am excited to see where my passion for programming takes me in the future.
+
+<!-----Followers Count------>
+
+## <img src="https://media4.giphy.com/media/bkxW5qw2Sj9bNPwrG3/giphy.gif?cid=ecf05e47s32z1ic54pcjuo9wcelpgxdi6g5dx6hxs5cakl7b&rid=giphy.gif&ct=s" width="30px">No. of Followers
+[![GitHub followers](https://img.shields.io/github/followers/SultanAhmad7560.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
 <!-----Social Accounts------>
 
